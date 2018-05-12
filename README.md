@@ -2,6 +2,16 @@
 
 > Description
 
+## Engines
+
+> Description
+
+| Name    | Version |
+| ------- | ------- |
+| Node.js | 9.11.1  |
+| NPM     | 6.0.1   |
+| Yarn    | 1.6.0   |
+
 ## Installation
 
 Install dependencies
@@ -24,7 +34,7 @@ Build for production with minification
 yarn run build
 ```
 
-## Tasks setup
+## Build tasks setup
 
 ### EJS
 
