@@ -36,34 +36,39 @@ $ gulp --env production / yarn build
 
 ## Build tasks setup
 
+### Gulp
+
+Build for development
+
+``` bash
+$ gulp <task name>
+```
+Build for production
+
+``` bash
+$ gulp <task name> --env production
+```
+
+### Yarn
+
+Build for development
+
+``` bash
+$ yarn <task name>:dev
+```
+
+Build for production
+
+``` bash
+$ yarn <task name>:prod
+```
+
+## Tasks description
+
 ### EJS
 
 > Description
 
-Build "ejs" task for development
-
-``` bash
-$ gulp ejs / yarn ejs:dev
-```
-
-Build "ejs" task for production
-
-``` bash
-$ gulp ejs --env production / yarn ejs:prod
-```
-
 ### Posthtml
 
 > Description
-
-Build "posthtml" task for development
-
-``` bash
-$ gulp posthtml / yarn posthtml:dev
-```
-
-Build "posthtml" task for production
-
-``` bash
-$ gulp posthtml --env production / yarn posthtml:prod
-```
