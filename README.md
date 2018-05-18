@@ -7,7 +7,7 @@
       <img width="150" height="150" alt="Webpack" src="https://cdn.rawgit.com/webpack/media/e7485eb2/logo/icon.svg">
     </a>
     <a href="https://github.com/posthtml/posthtml">
-      <img width="150" height="150" alt="Vue" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOTYu%0D%0AMzIgMTcwLjAyIj48ZGVmcz48c3R5bGU+LmNscy0xe2ZpbGw6IzQyYjg4Mzt9LmNscy0ye2ZpbGw6%0D%0AIzM1NDk1ZTt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPmxvZ288L3RpdGxlPjxwb2x5Z29uIGNsYXNz%0D%0APSJjbHMtMSIgcG9pbnRzPSIxMjAuODMgMCA5OC4xNiAzOS4yNiA3NS40OSAwIDAgMCA5OC4xNiAx%0D%0ANzAuMDIgMTk2LjMyIDAgMTIwLjgzIDAiLz48cG9seWdvbiBjbGFzcz0iY2xzLTIiIHBvaW50cz0i%0D%0AMTIwLjgzIDAgOTguMTYgMzkuMjYgNzUuNDkgMCAzOS4yNiAwIDk4LjE2IDEwMi4wMSAxNTcuMDYg%0D%0AMCAxMjAuODMgMCIvPjwvc3ZnPg==">
+      <img width="150" height="150" alt="Vue" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Vue.js_Logo.svg">
     </a>
   </div>
   <h1>Titile</h1>
