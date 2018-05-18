@@ -22,45 +22,34 @@ $ yarn
 
 ## Build complete setup
 
-Build for development with serve, debug, etc
-
-``` bash
-$ gulp / yarn start
-```
-
-Build for production with minification
-
-``` bash
-$ gulp --env production / yarn build
-```
-
-## Build tasks setup
+Build for development / production
 
 ### Gulp
 
-Build for development
-
 ``` bash
-$ gulp <task name>
-```
-Build for production
-
-``` bash
-$ gulp <task name> --env production
+$ gulp / gulp [--env] <development/production>
 ```
 
 ### Yarn
 
-Build for development
-
 ``` bash
-$ yarn <task name>:dev
+$ yarn <start/build>
 ```
 
-Build for production
+## Build tasks setup
+
+Build for development / production
+
+### Gulp
 
 ``` bash
-$ yarn <task name>:prod
+$ gulp <task> / gulp <task> [--env] <development/production>
+```
+
+### Yarn
+
+``` bash
+$ yarn <task>:<dev/prod>
 ```
 
 ## Tasks description
