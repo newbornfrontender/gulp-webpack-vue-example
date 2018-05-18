@@ -17,7 +17,7 @@
 Install dependencies
 
 ``` bash
-yarn add
+$ yarn
 ```
 
 ## Build complete setup
@@ -25,13 +25,13 @@ yarn add
 Build for development with serve, debug, etc
 
 ``` bash
-yarn run start
+$ gulp / yarn start
 ```
 
 Build for production with minification
 
 ``` bash
-yarn run build
+$ gulp --env production / yarn build
 ```
 
 ## Build tasks setup
@@ -43,13 +43,13 @@ yarn run build
 Build "ejs" task for development
 
 ``` bash
-yarn run ejs:dev
+$ gulp ejs / yarn ejs:dev
 ```
 
 Build "ejs" task for production
 
 ``` bash
-yarn run ejs:prod
+$ gulp ejs --env production / yarn ejs:prod
 ```
 
 ### Posthtml
@@ -59,11 +59,11 @@ yarn run ejs:prod
 Build "posthtml" task for development
 
 ``` bash
-yarn run posthtml:dev
+$ gulp posthtml / yarn posthtml:dev
 ```
 
 Build "posthtml" task for production
 
 ``` bash
-yarn run posthtml:prod
+$ gulp posthtml --env production / yarn posthtml:prod
 ```
