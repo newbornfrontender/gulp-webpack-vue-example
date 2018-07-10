@@ -1,14 +1,8 @@
 <div align="center">
   <div align="center">
-    <a href="https://github.com/posthtml/posthtml">
-      <img width="150" height="150" alt="Gulp" src="https://upload.wikimedia.org/wikipedia/commons/7/72/Gulp.js_Logo.svg">
-    </a>
-    <a href="https://github.com/posthtml/posthtml">
-      <img width="150" height="150" alt="Webpack" src="https://cdn.rawgit.com/webpack/media/e7485eb2/logo/icon.svg">
-    </a>
-    <a href="https://github.com/posthtml/posthtml">
-      <img width="150" height="150" alt="Vue" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Vue.js_Logo.svg">
-    </a>
+    <img width="150" height="150" alt="Gulp" src="https://upload.wikimedia.org/wikipedia/commons/7/72/Gulp.js_Logo.svg">
+    <img width="150" height="150" alt="Webpack" src="https://cdn.rawgit.com/webpack/media/e7485eb2/logo/icon.svg">
+    <img width="150" height="150" alt="Vue" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Vue.js_Logo.svg">
   </div>
   <h1>Titile</h1>
   <p>Sub</p>

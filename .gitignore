@@ -1,4 +1,10 @@
-node_modules
+# Files
+.DS_Store
 
-development
-production
+yarn-debug.log*
+yarn-error.log*
+
+# Directories
+/node_modules/
+/development/
+/production/

@@ -1,9 +1,5 @@
 {
   "presets": [
-    "@babel/preset-env",
-    ["vue", {
-      "eventModifiers": false,
-      "vModel": false
-    }]
+    "@babel/preset-env"
   ]
 }
